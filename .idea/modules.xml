@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW-4.iml" filepath="$PROJECT_DIR$/.idea/HW-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondTestAppSpringBoot/MySecondTestAppSpringBoot.iml" filepath="$PROJECT_DIR$/SecondTestAppSpringBoot/MySecondTestAppSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyThirdTestAppSpringBoot/MySecondTestAppSpringBoot (1).iml" filepath="$PROJECT_DIR$/MyThirdTestAppSpringBoot/MySecondTestAppSpringBoot (1).iml" />
+    </modules>
+  </component>
+</project>
